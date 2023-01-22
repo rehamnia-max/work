@@ -1,3 +1,9 @@
+DATABASE setup:
+
+```
+CREATE DATABASE work CHARACTER SET utf8 DEFAULT COLLATE utf8_general_ci;
+```
+
 1. Build the docker image
 
 ```
